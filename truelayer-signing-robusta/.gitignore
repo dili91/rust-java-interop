@@ -16,4 +16,4 @@
 #/target
 #/Cargo.lock
 
-.class
+*.class
