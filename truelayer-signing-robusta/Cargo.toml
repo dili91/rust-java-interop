@@ -1,0 +1,11 @@
+[package]
+name = "truelayer-signing-robusta"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate_type = ["cdylib"]
+
+[dependencies]
+robusta_jni = "0.2.0"
+truelayer-signing = "0.1.5"
