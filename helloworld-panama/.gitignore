@@ -1,3 +1,4 @@
 *.class
 classes
 target
+lib.h
